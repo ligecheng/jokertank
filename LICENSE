@@ -1,4 +1,0 @@
-int i = user.upuserPassd(enPassword, enId);
-//		u.setEnPassword(enPassword);
-//		session.setAttribute(enUsername, u);
-		//返回1 修改成功
