@@ -6,6 +6,11 @@ My stupid boss still prefers
 我爱你
 public class test{
    System.out.println("is dev");
+   if(name!=null){
+   System.out.print("no null")
+   }eles{
+    System.out.println(“null”);
+   }
 
 
 }
