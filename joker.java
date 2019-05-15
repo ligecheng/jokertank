@@ -7,8 +7,16 @@ public class test{
          System.out.println("joker");//这是黎格成的
           System.out.println("is joker")； 
  }
+
         public int getTest(){
 	//jokertank
 	return 1;
 	}
+
+       public String test(){
+          if(i==null){
+	  }
+         return " kk";
+       }
+
 }
