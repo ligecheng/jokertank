@@ -8,7 +8,8 @@ public class test{
           System.out.println("is joker")； 
  }
        public String test(){
-       
+          if(i==null){
+	  }
          return " kk";
        }
 }
